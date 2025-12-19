@@ -33,15 +33,15 @@ Scan results are saved in a structured report.json file
 📂Project Structure:
 
 web-vuln-scanner/
-   ├── scanner.py
-   ├── xss.py
-   ├── sqli.py
-   ├── headers.py
-   ├── payloads/
-   │   ├── xss/
-   │   └── sqli/
-   ├── report.json
-   └── requirements.txt
+├── scanner.py
+├── xss.py
+├── sqli.py
+├── headers.py
+├── payloads/
+│   ├── xss/
+│   └── sqli/
+├── report.json
+└── requirements.txt
 
 ▶️Usage:
 pip install -r requirements.txt
